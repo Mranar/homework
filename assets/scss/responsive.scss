@@ -1,0 +1,41 @@
+@media (min-width: 992px){
+    #mainNav {
+        padding-top: 0;
+        padding-bottom: 0;
+        border-bottom: none;
+        background-color: transparent;
+        transition: background-color 0.3s ease-in-out;
+    }
+}
+
+@media (min-width: 992px){
+    .navbar-expand-lg {
+        flex-flow: row nowrap;
+        justify-content: flex-start
+    }
+}
+
+@media (min-width: 992px){
+.masthead {
+    height: 100vh;
+    padding: 0;
+}
+}
+
+
+@media (min-width: 992px){
+    .masthead h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+}
+
+
+@media (min-width: 992px){
+    
+}
+
+
+@media (min-width: 992px){
+    
+}
